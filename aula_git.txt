@@ -16,6 +16,7 @@ fazer um merge - git merge nome da branch alterada
 branch criar
 git branch e nome para a branch
 renomerar -  git branch -m  de email para joao
+push para branch - git push origin nome da branch
 
 or create a new repository on the command line
 echo "# aula_git1" >> README.md
