@@ -1,0 +1,16 @@
+git init
+
+git config -- global user.name  "Joao"
+
+git config --global user.email "jbmjbmjbm@hotmail.com"
+
+git add -A
+
+criar commit - git commit -m "PrimeiroCommit"
+
+criar uma vova branch - git branch nome da branch
+mudar de branch - git checout nome da branch
+
+fazer um merge - git merge nome da branch alterada
+
+
