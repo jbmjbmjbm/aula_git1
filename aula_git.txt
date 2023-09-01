@@ -1,4 +1,4 @@
-git init inicializa o it em um diretorio novo
+git init - inicializa o it em um diretorio novo
 
 git config -- global user.name  "Joao"
 
